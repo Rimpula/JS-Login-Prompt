@@ -1,5 +1,5 @@
 // Set the student's grade
-const grade = 65;
+const grade = 85;
 
 switch (true) {
 	// If score is 90 or greater
